@@ -1,0 +1,17 @@
+my/edu/utar/splitbillass/SplitPercentageResult.java
+ my.edu.utar.splitbillass.SplitPercentageResult
+my/edu/utar/splitbillass/SplitEvenlyResult.java
+ my.edu.utar.splitbillass.SplitEvenlyResult
+my/edu/utar/splitbillass/BuildConfig.java
+ my.edu.utar.splitbillass.BuildConfig
+my/edu/utar/splitbillass/ViewHistory.java
+ my.edu.utar.splitbillass.ViewHistory
+my/edu/utar/splitbillass/SplitPercentage.java
+ my.edu.utar.splitbillass.SplitPercentage
+ my.edu.utar.splitbillass.SplitPercentage$1
+my/edu/utar/splitbillass/MainActivity.java
+ my.edu.utar.splitbillass.MainActivity
+ my.edu.utar.splitbillass.MainActivity$1
+ my.edu.utar.splitbillass.MainActivity$2
+ my.edu.utar.splitbillass.MainActivity$3
+ my.edu.utar.splitbillass.MainActivity$4
